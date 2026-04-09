@@ -41,7 +41,14 @@
 
 ---
 
-# 👀 Profile Views
+
+# 💖 Thanks for Visiting!
+
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=kalsariya-arpan&icon=5&color=6"/>
+  <img src="https://visitcount.itsvg.in/api?id=kalsariya-arpan&icon=6&color=6"/>
+</p>
+
+<p align="center">
+  ✨ Thank you for visiting my profile! ✨ <br>
+  🚀 Keep Coding | Keep Growing | Keep Winning 💯
 </p>
