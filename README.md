@@ -19,3 +19,29 @@
 [![](https://visitcount.itsvg.in/api?id=kalsariya-arpan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kalsariya-arpan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalsariya-arpan&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalsariya-arpan&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
+
+---
+
+# ⚡ Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalsariya-arpan&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 👀 Profile Views
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=kalsariya-arpan&icon=5&color=6"/>
+</p>
