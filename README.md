@@ -42,13 +42,9 @@
 ---
 
 
-# 💖 Thanks for Visiting!
+
+# 👀 Profile Visitors
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=kalsariya-arpan&icon=6&color=6"/>
-</p>
-
-<p align="center">
-  ✨ Thank you for visiting my profile! ✨ <br>
-  🚀 Keep Coding | Keep Growing | Keep Winning 💯
+  <img src="https://komarev.com/ghpvc/?username=kalsariya-arpan&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
