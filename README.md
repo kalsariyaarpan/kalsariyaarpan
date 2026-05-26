@@ -34,11 +34,11 @@
 
 ---
 
-# ⚡ Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalsariya-arpan&theme=tokyo-night&hide_border=true"/>
-</p>
+# 📈 Contribution Graph
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalsariya-arpan&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</p>
 ---
 
 
