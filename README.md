@@ -79,7 +79,7 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kalsariya-arpan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kalsariyaarpan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" />
   
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=kalsariyaarpan&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
 </p>
@@ -103,5 +103,5 @@
 # 👀 Profile Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kalsariya-arpan&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kalsariyaarpan&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
