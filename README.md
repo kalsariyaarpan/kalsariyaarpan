@@ -1,4 +1,14 @@
 # 💫 About Me:
+
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000428,50:004e92,100:000428&text=ARPAN%20KALSARIYA&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20Open%20Source%20Contributor%20%E2%80%A2%20Lifelong%20Learner&descAlignY=58&descSize=20"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=1200&lines=Engineering+Solutions+For+Real+World+Problems;Building+Fast+Reliable+And+Scalable+Applications;Open+Source+Contributor+With+A+Passion+For+Innovation;Transforming+Ideas+Into+Meaningful+Digital+Experiences;The+Best+Way+To+Predict+The+Future+Is+To+Build+It"/>
+
+</div>
+
 <br><br>🚀 M.Sc. IT Student | Full-Stack Developer | Problem Solver | Builder of Real-World Solutions<br><br>I am a passionate and highly motivated M.Sc. IT student with a strong foundation in software development, web technologies, and database systems. I don’t just write code — I build scalable, practical, and impact-driven solutions.<br><br>💡 I enjoy transforming ideas into functional applications, solving complex problems with clean logic, and continuously upgrading my technical skills. From frontend design to backend logic and databases, I focus on writing efficient, maintainable, and production-ready code.<br><br>🛠️ Tech Stack & Interests<br><br>🌐 Web Development (HTML, CSS, JavaScript, React js,Node js)<br><br>🗄️ Databases (MySQL, Firebase)<br><br>⚙️ Backend Logic & APIs<br><br>📊 Problem Solving & Data Structures<br><br>🚀 Project-based Learning & Innovation<br><br>🔥 I believe in consistency, discipline, and execution. I’m always exploring new technologies, contributing to projects, and pushing my limits to grow as a developer.<br><br>🎯 Goal: To become a highly skilled software engineer and build solutions that create real value in the tech world.
 
 
@@ -105,3 +115,14 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kalsariya-arpan&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&pause=1800&color=38BDF8&center=true&vCenter=true&width=1200&lines=%3E+visitor_detected...;%3E+loading_final_message...;%3E+thank_you_for_visiting_my_profile.;%3E+looking_for_collaboration...;%3E+status%3A+AVAILABLE;%3E+building_the_future_one_commit_at_a_time.;%3E+have_an_idea%3F+let's_talk.;%3E+have_a_project%3F+let's_build_it.;%3E+connection_closed..."/>
+    
+</div>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,50:0F172A,100:020617&height=120&section=footer"/>
+
+
